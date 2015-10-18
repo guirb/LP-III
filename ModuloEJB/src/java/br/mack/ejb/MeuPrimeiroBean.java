@@ -18,8 +18,8 @@ import javax.ejb.Startup;
  *
  * @author Guilherme
  */
-@Singleton
 @Startup 
+@Singleton
 @LocalBean
 
 public class MeuPrimeiroBean {
