@@ -8,7 +8,7 @@ package mack.servlets;
 /**
  *
  * @author 31445381
- */
+ 
 import javax.servlet.http.*;
 import java.io.*;
 import java.util.*;
@@ -85,3 +85,4 @@ public class UsuarioDemoServlet extends HttpServlet {
         return sbHTML.toString();
     }
 }
+*/
